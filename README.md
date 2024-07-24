@@ -14,6 +14,7 @@ Arham Builders' website is designed to provide a comprehensive digital presence 
 - **Data Analytics:** Includes tools for generating reports and analyzing project performance, helping teams make informed decisions.
 - **Team Collaboration:** Features tools for internal communication and collaboration among project managers, workers, and other stakeholders.
 - **Resource Management:** Tracks and manages resources, including labor and materials, to ensure efficient project execution.
+
 The Arham Builders website combines a user-friendly front-end with a powerful back-end dashboard, enhancing both client engagement and project management capabilities.
 
 
